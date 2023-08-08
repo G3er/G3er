@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, Python, Java, Spring Boot, Angular and SQL**
+- 🌱 I’m currently learning **JavaScript, Python, and SQL**
 
-- 🤝 I’m looking for help with **Work Experience**
+- 🤝 I’m looking for **Work Experience**
 
 - 💬 Ask me about: **HTML, CSS and JavaScript**
 
