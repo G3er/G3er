@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3er&label=Profile%20views&color=0e75b6&style=flat" alt="g3er" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, Python, and SQL, C and all the various skills and subjects necessary to get through a Computer Science degree!**
+- 🌱 I’m currently learning **JavaScript, Python, SQL, C and all the various skills and subjects necessary to get through a Computer Science degree!**
 
 - 🤝 I’m looking for **Work Experience**
 
