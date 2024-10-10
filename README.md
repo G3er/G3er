@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Matheus Kruger</h1>
-<h3 align="center">Aspiring and eager to learn Software developer, with a little experience in Front-End</h3>
+
+<h3 align="center">Aspiring and eager to learn Software developer, currently a college student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3er&label=Profile%20views&color=0e75b6&style=flat" alt="g3er" /> </p>
 
-- 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, Python, and SQL**
+- 🌱 I’m currently learning **JavaScript, Python, and SQL, C and all the various skills and subjects necessary to get through a Computer Science degree!**
 
 - 🤝 I’m looking for **Work Experience**
 
-- 💬 Ask me about: **HTML, CSS and JavaScript**
-
 - 📫 How to reach me: **dhfromjesus@gmail.com or matheuskruger123@gmail.com**
 
-- ⚡ Fun fact about me: **I know how to play the acoustic Guitar!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
